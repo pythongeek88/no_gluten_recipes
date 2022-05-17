@@ -1,0 +1,3 @@
+*.sqlite3
+/mysite_env
+*.pyc
